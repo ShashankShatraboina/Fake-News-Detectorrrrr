@@ -10,9 +10,5 @@ st-gsheets-connection==0.0.4
 joblib==1.4.2
 wordcloud==1.9.3
 beautifulsoup4==4.12.3
-groq==0.5.0
-langchain-groq==0.1.2
-langchain==0.1.16
-langchain-community==0.0.34
 duckduckgo_search==6.1.11
 wikipedia==1.4.0
