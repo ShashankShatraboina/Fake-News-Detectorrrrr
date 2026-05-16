@@ -65,13 +65,4 @@ For fact-checking, the app integrates Meta's llama3-70b LLM model. It extracts k
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or improvements.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-Special thanks to the developers of the libraries and tools used in this project.
-
----
 
